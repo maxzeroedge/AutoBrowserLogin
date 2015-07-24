@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Auto Browser Login</string>
+    <string name="hello_world">Click Connect to Login to the Wifi connection without opening browser</string>
+    <string name="about">About</string>
+    <string name="connect_btn">Connect</string>
+    <string name="Turning_on_wifi">Turning Your Wifi On</string>
+    <string name="Status">Status</string>
+    <string name="service_btn">Start/Stop Service</string>
+
+</resources>
